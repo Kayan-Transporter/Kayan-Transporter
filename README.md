@@ -1,46 +1,39 @@
-
-```markdown
 <div align="center">
 
 # 🚌 Kayan Transporter
-### *رحلة آمنة لأطفالك كل يوم — A Safe Journey for Your Children, Every Day*
 
+### * رحلة آمنة لأطفالك كل يوم — A Safe Journey for Your Children, Every Day *
 
-
-![Kayan](https://img.shields.io/badge/🚌_Kayan-Transporter-DAA520?style=for-the-badge)
-
-
-
-
-![Track](https://img.shields.io/badge/Digital-Marketing_Specialist-1e3a5f?style=for-the-badge)
-
-
-
-
-![Status](https://img.shields.io/badge/Status-In_Progress-2ea44f?style=for-the-badge)
-
-
+![Kayan](https://img.shields.io/badge/Kayan--Transporter-DAA520?style=for-the-badge)
+![Track](https://img.shields.io/badge/Digital--Marketing--Specialist-1e3a5f?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status--In--Progress-2ea44f?style=for-the-badge)
 
 </div>
 
 ---
 
 ## 📎 Project Name
+
 > **Kayan Transporter** — Digital Marketing Graduation Project
 
 ---
 
+<div dir="rtl">
+
+
 ## 📌 Project Overview
 
-**Kayan Transporter** هي شركة نقل مدرسي موثوقة مقرها مدينة 6 أكتوبر، القاهرة، مصر.
-تقدم الشركة خدمة نقل مدرسي آمنة وموثوقة تعتمد على التكنولوجيا لأولياء أمور الأطفال في المدارس الخاصة والدولية.
+<div align="right" dir="rtl">
 
-**المشكلة:** قلق الأمهات وتأخر الباصات وعدم وجود تتبع.
+شركة **Kayan Transporter** هي شركة نقل مدرسي موثوقة مقرها مدينة 6 أكتوبر، القاهرة، مصر. تقدم الشركة خدمة نقل مدرسي آمنة تعتمد على التكنولوجيا لأولياء أمور الأطفال في المدارس الخاصة والدولية.
 
-**الحل:** كيان توفر تتبع GPS مباشر، مواعيد ثابتة، مشرفات مدربات، وسيارات تويوتا هاياس حديثة مع تغطية تأمينية شاملة.
+- **المشكلة:** قلق الأمهات وتأخر الباصات وعدم وجود تتبع.
+- **الحل:** كيان توفر تتبع GPS مباشر، مواعيد ثابتة، مشرفات مدربات، وسيارات تويوتا هاياس حديثة مع تغطية تأمينية شاملة.
 
 > 🗣️ **Brand Slogan:**
 > *"كيان هتوصل ابنك في ميعاده.. وبأمان"*
+
+</div>
 
 ---
 
@@ -57,26 +50,35 @@
 ---
 
 ## 🎓 Instructor
+
 > **Dr. Sameh Ibrahim**
 
 ---
 
+<div dir="rtl">
+
 ## 🎯 Project Objectives
 
-- 📈 زيادة الوعي بعلامة كيان ترانسبورتر بين أولياء الأمور في أكتوبر والشيخ زايد
-- 👨‍👩‍👧 بناء الثقة مع الأمهات من خلال إبراز مميزات الأمان (GPS، مشرفات، مواعيد)
-- 📱 تنمية الحضور الرقمي على Facebook & Instagram
-- 💰 توليد Leads مؤهلين وتحويلهم لمشتركين في الخدمة
-- 📊 وضع KPIs قابلة للقياس لمتابعة الأداء التسويقي
+- 📈 زيادة الوعي بعلامة كيان ترانسبورتر بين أولياء الأمور في أكتوبر والشيخ زايد والقاهرة الجديدة.
+- 👨‍👩‍👧 &nbsp; بناء الثقة مع الأمهات من خلال إبراز مميزات الأمان (GPS، مشرفات، مواعيد).
+- 📱 تنمية الحضور الرقمي على Facebook & Instagram.
+- 💰 توليد Leads مؤهلين وتحويلهم لمشتركين في الخدمة.
+- 📊 وضع KPIs قابلة للقياس لمتابعة الأداء التسويقي.
+
+</div>
 
 ---
+
+<div dir="rtl">
 
 ## 📦 Project Scope
 
 بناءً على **SOSTAC Planning Model**:
 
-| المرحلة | المحتوى |
-|---------|---------|
+</div>
+
+| Stage | Scope & Content |
+|-------|-----------------|
 | 🔍 **Situation** | Internal Analysis, Customer Analysis, Competitor Analysis, PEST, SWOT |
 | 🎯 **Objectives** | SMART Financial & Marketing Objectives |
 | 🗺️ **Strategy** | Segmentation, Target Market, Buyer Persona, USP |
@@ -84,7 +86,11 @@
 | 🚀 **Action** | Action Plan, Budget, Roles, Account Creation, Content Execution |
 | 📊 **Control** | KPIs, Analytics Reports, Recommendations |
 
+<div dir="rtl">
+
 > 🏆 **Final Deliverable:** خطة تسويق رقمي متكاملة — PowerPoint Presentation + محتوى منفذ (صورة، فيديو، إنفوجرافيك) + تقارير تحليلية
+
+</div>
 
 ---
 
@@ -145,16 +151,19 @@
 |----------|------|
 | 📁 Google Drive | *(Add link here)* |
 | 🎨 Figma | *(Add link here)* |
-| 📱 Facebook Page | [Kayan Transporter](https://www.facebook.com/profile.php?id=61576033719496) |
+| 📱 Facebook Page | [Kayan Transporter Page](https://www.facebook.com/profile.php?id=61576033719496) |
 | 📧 Email | kayan.transportation000@gmail.com |
 | 📞 Phone | 01016492717 — 01550390603 |
 
 ---
 
+<div dir="rtl">
+
 ## 🏢 About The Client — Kayan Transporter
 
-> *"شركة كيان مش مجرد شركة باصات مدارس،*
-> *دي منظومة متكاملة بتقدم أمان، راحة، ورعاية حقيقية لأولادك"* 🚌
+> *"شركة كيان مش مجرد شركة باصات مدارس، دي منظومة متكاملة بتقدم أمان، راحة، ورعاية حقيقية لأولادك"* 🚌
+
+</div>
 
 | Detail | Info |
 |--------|------|
@@ -165,13 +174,16 @@
 | 📡 Technology | Real-time GPS tracking |
 | 🛡️ Insurance | Full coverage |
 | ⏰ Service | Always open |
-| 📍 Coverage | October City, Sheikh Zayed, Aktobur Gardens |
+| 📍 Coverage | October City, Sheikh Zayed, Aktobur Gardens , New Cairo|
 
 ---
+
+<div dir="rtl">
 
 ## 📣 Content Plan — Pieces of Content (POCs)
 
 ### 1️⃣ Photo Post
+
 **Caption:**
 > *"الباص هييجي يا ماما"* ❤️
 >
@@ -189,6 +201,7 @@
 ---
 
 ### 2️⃣ Video Caption
+
 > مهما كانت الظروف.. مطر، زحمة، أو شبورة.. رحلة ابنك للمدرسة في أمان تام! 🚌
 >
 > عارفين قلق كل يوم الصبح وعينك على الساعة 👀
@@ -207,6 +220,7 @@
 ---
 
 ### 3️⃣ Infographic Caption
+
 > مشوار المدرسة بيبدأ قبل ما ابنك يدخل الفصل. 🏫
 >
 > من لحظة خروجه من البيت، أهم حاجة إنك تعرفي إن الرحلة ماشية في الوقت الصح، وإنك تقدري تتابعي الباص وتعرفي مكانه.
@@ -224,17 +238,23 @@
 >
 > `#KayanTransporter` `#النقل_المدرسي` `#SchoolBus` `#GPS` `#راحة_البال` `#سلامة_الأطفال`
 
+</div>
+
 ---
+
+<div dir="rtl">
 
 ## 📊 STEPPS Model Analysis
 
-| العنصر | التطبيق على كيان |
-|--------|-----------------|
+</div>
+
+| Element | Application on Kayan |
+|---------|-----------------------|
 | 💎 **Social Currency** | الإنفوجرافيك والصورة الثابتة تُقدم نصيحة ذكية تعتبر قيمة تشاركها الأمهات |
-| ⏰ **Triggers** | "قلق الصباح" + "النظر إلى الساعة" = مشرّات يومية ترتبط بالبراند |
+| ⏰ **Triggers** | "قلق الصباح" + "النظر إلى الساعة" = محفزات يومية ترتبط بالبراند |
 | ❤️ **Emotions** | الفيديو يبدأ بمشاعر القلق والترقب، ثم ينتقل للأمان والاطمئنان |
 | 👁️ **Public** | ظهور باص كيان بالأبيض والذهبي بوضوح في كل المحتوى |
-| 💡 **Practical Value** | تتبع GPS + الالتزام بالمواعيد + استمرارية الخدمة |
+| 💡 **Practical Value** | شهادات وآراء أولياء الأمور التجريبية (Customer Testimonials & Reviews) التي تؤكد الالتزام والأمان |
 | 📖 **Stories** | بناء الفيديو على Three-Act Structure: قلق ← رحلة ← اطمئنان |
 
 ---
@@ -244,6 +264,4 @@
 *Graduation Project — Digital Marketing Specialist Track*
 **Group 1 | Kayan Transporter** 🚌
 
-
 </div>
-```
