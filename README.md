@@ -150,8 +150,7 @@
 | Resource | Link |
 |----------|------|
 | 📁 Google Drive | *(Add link here)* |
-| 🎨 Figma | *(Add link here)* |
-| 📱 Facebook Page | [Kayan Transporter Page](https://www.facebook.com/profile.php?id=61576033719496) |
+| 📱 Facebook Page | [Kayan Transporter Page](https://www.facebook.com/profile.php?id=61561243933084) |
 | 📧 Email | kayan.transportation000@gmail.com |
 | 📞 Phone | 01016492717 — 01550390603 |
 
