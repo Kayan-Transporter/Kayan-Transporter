@@ -59,10 +59,10 @@
 
 ## 🎯 Project Objectives
 
-- 📈 زيادة الوعي بعلامة كيان ترانسبورتر بين أولياء الأمور في أكتوبر والشيخ زايد والقاهرة الجديدة.
+- 📈 زيادة الوعي بعلامة كيان ترانسبورتر بين أولياء الأمور في الهرم وأكتوبر والشيخ زايد والقاهرة الجديدة.
 - 👨‍👩‍👧 &nbsp; بناء الثقة مع الأمهات من خلال إبراز مميزات الأمان (GPS، مشرفات، مواعيد).
-- 📱 تنمية الحضور الرقمي على Facebook & Instagram.
-- 💰 توليد Leads مؤهلين وتحويلهم لمشتركين في الخدمة.
+* 📱 تنمية الحضور الرقمي على منصات السوشيال ميديا المختلفة (فيسبوك - انتسقرام - تيك توك - سناب شات - لينكدان) ومحرك البحث جوجل.
+*  💰 توليد Leads مؤهلين وتحويلهم لمشتركين في الخدمة.
 - 📊 وضع KPIs قابلة للقياس لمتابعة الأداء التسويقي.
 
 </div>
@@ -88,7 +88,7 @@
 
 <div dir="rtl">
 
-> 🏆 **Final Deliverable:** خطة تسويق رقمي متكاملة — PowerPoint Presentation + محتوى منفذ (صورة، فيديو، إنفوجرافيك) + تقارير تحليلية
+> 🏆 **Final Deliverable:** خطة تسويق رقمي متكاملة — PowerPoint Presentation + محتوى منفذ (بوستات سوشيال ميديا، فيديوهات، كاروسيل، إنفوجرافيك) + تقارير تحليلية
 
 </div>
 
@@ -99,11 +99,15 @@
 | Category | Tools |
 |----------|-------|
 | 🎨 Design | Canva |
+| 🎬 Video Editing | CapCut |
+| 🎥 Visuals & Scene Generation | Google Flow, Dola AI |
+| 🤖 AI (Captions & Prompts) | ChatGPT, Gemini, Copilot |
+| 🎙️ Voiceover | ElevenLabs, Google AI Studio |
 | 📊 Planning | PowerPoint, Business Model Canvas, SOSTAC |
-| 🤖 AI | Gemini, Copilot |
-| 📈 Research | Google Trends, Buyer Persona Template |
-| 📱 Publishing | Meta Business Suite |
-| 📋 Data | Excel |
+| 🔍 Research & Persona | Google Trends, HubSpot (Make My Persona Tool) |
+| 📲 Publishing | Meta Business Suite, YouTube Studio, TikTok, Snapchat, LinkedIn, Google Ads |
+| 📈 Data | Excel |
+
 
 ---
 <div align="left">
@@ -143,19 +147,18 @@
 - [ ] إنشاء Content Calendar
 - [ ] اختيار المنصات وتحديد نوع المحتوى والـ Tone of Voice
 - [ ] كتابة Captions وعناوين لكل POC
-- [ ] تطبيق STEPPS Model على المحتوى
 
 ### 📍 Week 4 — Action & Execution
-- [ ] خطة العمل التفصيلية مع الميزانية وتوزيع الأدوار
-- [ ] إنشاء وتهيئة حسابات السوشيال ميديا
-- [ ] تنفيذ المحتوى: Photo Post + Video + Infographic
-- [ ] نشر المحتوى على المنصات
+* [ ] خطة العمل التفصيلية مع الميزانية وتوزيع الأدوار
+* [ ] إنشاء وتهيئة حسابات السوشيال ميديا
+* [ ] تنفيذ خطة المحتوى (النصي والمرئي)
+* [ ] نشر المحتوى على المنصات
+### 📍 Week 5 - Control
 
-### 📍 Week 5 — Control 
-- [ ] تحديد KPIs ومؤشرات النجاح
-- [ ] تقارير Analytics من Meta Business Suite
-- [ ] تقييم الأداء مقارنةً بالأهداف
-- [ ] كتابة التوصيات للخطة القادمة
+- [ ] تحديد مقاييس الأداء الرئيسية (KPIs) ومؤشرات النجاح للحملة.
+- [ ] استخراج وتحليل تقارير الأداء (Analytics Reports) من Meta Business Suite وأدوات تحليل المنصات.
+- [ ] تقييم أداء الحملة المباشرة والمحتوى المقارن بالأهداف التسويقية المحددة.
+- [ ] تقديم التوصيات النهائية لتحسين الأداء وتطوير الخطط والمستهدفات القادمة.
 
 ---
 <div dir="ltr" align="left">
@@ -220,7 +223,7 @@
 | 📡 Technology | Real-time GPS tracking |
 | 🛡️ Insurance | Full coverage |
 | ⏰ Service | Always open |
-| 📍 Coverage | October City, Sheikh Zayed, Aktobur Gardens , New Cairo|
+| 📍 Coverage | El Haram, October City, Sheikh Zayed, Aktobur Gardens , New Cairo|
 
 ---
 
