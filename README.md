@@ -201,7 +201,7 @@
 | :--- | :--- |
 | 📁 Google Drive | [Kayan Transporter Drive Folder](https://drive.google.com/drive/folders/1XwqFblUyqDLciORSQC3dFheMwt6WebJS?usp=drive_link) |
 | 📱 Facebook | [Facebook](https://www.facebook.com/profile.php?id=61561243933084) |
-| 📸 Instagram | [Kayan Transporter Instagram](https://www.instagram.com/kayantransporter?vrfl=MW42ZjdjaWZvMDAwcg==) |
+| 📸 Instagram | [Kayan Transporter Instagram](https://www.instagram.com/kayantransporter?utm_source=ig_web_button_share_sheet&mdxt=ZDNlZDc0MzIxNw==) |
 | 💼 LinkedIn | [Kayan Transporter LinkedIn](https://www.linkedin.com/company/kayan-transporter/about/?viewAsMember=true) |
 | 👻 Snapchat | [Kayan Transporter Snapchat](https://www.snapchat.com/@kayantransport) |
 | 🎥 YouTube | [Kayan Transporter YouTube](https://youtube.com/@kayantransporter?si=dkNwohgoiwmw_Ik3) |
