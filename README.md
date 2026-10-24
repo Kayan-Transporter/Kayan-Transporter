@@ -14,14 +14,14 @@
 
 ## 📎 Project Name
 
-> **Kayan Transporter** — Digital Marketing Graduation Project
+> **Kayan Transporter** 
 
 ---
 
 <div dir="rtl">
 
 
-## 📌 Project Overview
+## 📌 Project Idea
 
 <div align="right" dir="rtl">
 
@@ -122,7 +122,7 @@
 * **الحل:** اعتماد جدول زمني بفاصل 48 ساعة بين كل منشور وآخر لضمان إعطاء كل محتوى حقه كاملاً في الانتشار والوصول.
 ---
 
-## 📅 Project Plan (5 Weeks)
+## 📅 work Plan (5 Weeks)
 
 ### 📍 Week 1 — Situation Analysis
 - [ ] Internal analysis للشركة
@@ -151,14 +151,46 @@
 - [ ] تنفيذ المحتوى: Photo Post + Video + Infographic
 - [ ] نشر المحتوى على المنصات
 
-### 📍 Week 5 — Control & Final Presentation
+### 📍 Week 5 — Control 
 - [ ] تحديد KPIs ومؤشرات النجاح
 - [ ] تقارير Analytics من Meta Business Suite
 - [ ] تقييم الأداء مقارنةً بالأهداف
 - [ ] كتابة التوصيات للخطة القادمة
-- [ ] تقديم المشروع النهائي
 
 ---
+<div dir="ltr" align="left">
+
+## 👥 Roles & Responsibilities
+
+| # | Name | Assigned Phase / Week | Primary Responsibilities & Deliverables |
+| :---: | :--- | :--- | :--- |
+| **1** | **Asmaa Abdelmohsen Mohamed Mohamed** | **Week 1: Situation Analysis** | Internal analysis, Customer analysis, Competitor analysis, PEST analysis, and SWOT analysis. |
+| **2** | **Esraa Amr Mohamed Waheeb** | **Week 2: Objectives & Strategy** | SMART objectives (Financial & Marketing), Market segmentation, Target market, Buyer persona, and USP / Competitive advantage. |
+| **3** | **Basma Ali Abbas Hussein** | **Week 3: Tactics & Content Planning** | Marketing Mix (7Ps), Content calendar, Tone of Voice, POC Captions & Headlines, and STEPPS Model implementation. |
+| **4** | **Abdelrhman Ahmed Elsayed Abdelmaksoud** | **Week 4: Action & Execution** | Action plan & budget allocation, Social media accounts setup, Content execution (Photo, Video & Infographic), and Content publishing. |
+| **5** | **Ali Eldeen Magdi Ali Kotb** | **Week 5: Control** | Defining KPIs & success metrics, Meta Business Suite Analytics, Performance evaluation vs objectives, Future recommendations. |
+
+</div>
+
+---
+
+<div dir="ltr" align="left">
+
+## 📊 Key Performance Indicators (KPIs)
+
+* **Paid Campaign Performance (Facebook & Video Ads):**
+  * **Direct Conversions:** Driving parent inquiries and direct bookings via WhatsApp (`https://wa.me/201016492717`).
+  * **Targeted Impressions:** Reaching 19k – 55k targeted parents in 6th of October, Sheikh Zayed, and New Cairo.
+  * **Video Engagement:** Achieving 11k – 27k views with cost-effective CPV (~EGP 0.05 – 0.19).
+
+* **Multi-Platform Content & Setup Strategy (Organic & Mockup Campaigns):**
+  * **Cross-Platform Presence:** Establishing brand visibility across Facebook, Instagram, LinkedIn, Snapchat, TikTok, YouTube, and Google Search.
+  * **Campaign Setup Documentation:** Providing complete campaign architecture and technical setup screenshots for search and social media channels.
+
+</div>
+
+---
+
 
 ## 🔗 Project Links
 
@@ -189,87 +221,6 @@
 | 🛡️ Insurance | Full coverage |
 | ⏰ Service | Always open |
 | 📍 Coverage | October City, Sheikh Zayed, Aktobur Gardens , New Cairo|
-
----
-
-<div dir="rtl">
-
-## 📣 Content Plan — Pieces of Content (POCs)
-
-### 1️⃣ Photo Post
-
-**Caption:**
-> *"الباص هييجي يا ماما"* ❤️
->
-> يمكن تكون مجرد جملة بسيطة يقولها طفل مستني يروح مدرسته...
-> لكنها بالنسبة لنا معناها أكبر: معناها **ثقة والتزام.**
->
-> لأن يوم المدرسة ما بيستناش، مشوار طفلك لازم يكون بمواعيد مضبوطة تعتمدي عليها وأنتِ مرتاحة.
-> مع Kayan Transporter، تقدري تتابعي رحلة الباص من خلال الـ GPS، وتعرفي مكانه طول الطريق.
->
-> كل يوم مدرسة... فيه باص مستني ابنك. ❤️
->
-> **Kayan Transporter**
-> `#KayanTransporter` `#النقل_المدرسي` `#SchoolBus` `#راحة_البال` `#المدرسة`
-
----
-
-### 2️⃣ Video Caption
-
-> مهما كانت الظروف.. مطر، زحمة، أو شبورة.. رحلة ابنك للمدرسة في أمان تام! 🚌
->
-> عارفين قلق كل يوم الصبح وعينك على الساعة 👀
->
-> مع كيان (Kayan)، مش بس بنوفر لك باص يوصل في ميعاده.. إحنا بنوفر لك راحة البال ولحظة اطمئنان بتوصل لحد باب المدرسة.
->
-> - 📍 تتبع مباشر للرحلة (GPS)
-> - ⏰ التزام تام بالمواعيد تحت أي ظروف
-> - ❤️ أمان وراحة لأطفالك وطمأنينة ليكِ
->
-> كيان.. هتوصل ابنك في ميعاده.. وبأمان!
-> 📱 حملي التطبيق دلوقتي واستفيدي بخصم أول استخدام
->
-> `#Kayan` `#النقل_المدرسي` `#تتبع_مباشر` `#اطمئنان_الأم` `#أمان_أطفالك` `#تطبيقات_ذكية` `#مدرسة` `#راحة_البال`
-
----
-
-### 3️⃣ Infographic Caption
-
-> مشوار المدرسة بيبدأ قبل ما ابنك يدخل الفصل. 🏫
->
-> من لحظة خروجه من البيت، أهم حاجة إنك تعرفي إن الرحلة ماشية في الوقت الصح، وإنك تقدري تتابعي الباص وتعرفي مكانه.
->
-> مع **Kayan Transporter**، بنركز على 3 حاجات أساسية:
-> - ⏰ الالتزام بالمواعيد
-> - 📍 متابعة الرحلة بالـ GPS
-> - 🚌 استمرارية الخدمة
->
-> لأن النقل المدرسي مش مجرد "توصيلة"... تقدري تعتمدي عليه.
->
-> احفظي الـ Infographic وشاركيه مع أي أم بتفكر في اختيار School Bus لطفلها. ❤️
->
-> **Kayan Transporter** — كل يوم مدرسة... فيه باص مستني ابنك.
->
-> `#KayanTransporter` `#النقل_المدرسي` `#SchoolBus` `#GPS` `#راحة_البال` `#سلامة_الأطفال`
-
-</div>
-
----
-
-<div dir="rtl">
-
-## 📊 STEPPS Model Analysis
-
-</div>
-
-| Element | Application on Kayan |
-|---------|-----------------------|
-| 💎 **Social Currency** | الإنفوجرافيك والصورة الثابتة تُقدم نصيحة ذكية تعتبر قيمة تشاركها الأمهات |
-| ⏰ **Triggers** | "قلق الصباح" + "النظر إلى الساعة" = محفزات يومية ترتبط بالبراند |
-| ❤️ **Emotions** | الفيديو يبدأ بمشاعر القلق والترقب، ثم ينتقل للأمان والاطمئنان |
-| 👁️ **Public** | ظهور باص كيان بالأبيض والذهبي بوضوح في كل المحتوى |
-| 💡 **Practical Value** | شهادات وآراء أولياء الأمور التجريبية (Customer Testimonials & Reviews) التي تؤكد الالتزام والأمان |
-| 📖 **Stories** | بناء الفيديو على Three-Act Structure: قلق ← رحلة ← اطمئنان |
 
 ---
 
