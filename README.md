@@ -1,14 +1,18 @@
 <div align="center">
 
-# 🚌 Kayan Transporter
+  <img src="logo.png" alt="Kayan Transporter Logo" width="180">
 
-### * رحلة آمنة لأطفالك كل يوم — A Safe Journey for Your Children, Every Day *
+  <h1>🚌 Kayan Transporter</h1>
 
-![Kayan](https://img.shields.io/badge/Kayan--Transporter-DAA520?style=for-the-badge)
-![Track](https://img.shields.io/badge/Digital--Marketing--Specialist-1e3a5f?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status--In--Progress-2ea44f?style=for-the-badge)
+  <p><em>رحلة آمنة لأطفالك كل يوم — A Safe Journey for Your Children, Every Day</em></p>
+
+  <img src="https://img.shields.io/badge/Content%20%26%20Campaigns-DAA520?style=for-the-badge" alt="Content and Campaigns">
+  <img src="https://img.shields.io/badge/Digital--Marketing--Specialist-1e3a5f?style=for-the-badge" alt="Track">
+  <img src="https://img.shields.io/badge/Status--In--Progress-2ea44f?style=for-the-badge" alt="Status">
 
 </div>
+
+---
 
 ---
 
