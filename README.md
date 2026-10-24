@@ -198,11 +198,16 @@
 ## 🔗 Project Links
 
 | Resource | Link |
-|----------|------|
-| 📁 Google Drive | *(Add link here)* |
-| 📱 Facebook Page | [Kayan Transporter Page](https://www.facebook.com/profile.php?id=61561243933084) |
+| :--- | :--- |
+| 📁 Google Drive | [Kayan Transporter Drive Folder](https://drive.google.com/drive/folders/1XwqFblUyqDLciORSQC3dFheMwt6WebJS?usp=drive_link) |
+| 📱 Facebook | [Facebook](https://www.facebook.com/profile.php?id=61561243933084) |
+| 📸 Instagram | [Kayan Transporter Instagram](https://www.instagram.com/kayantransporter?vrfl=MW42ZjdjaWZvMDAwcg==) |
+| 💼 LinkedIn | [Kayan Transporter LinkedIn](https://www.linkedin.com/company/kayan-transporter/about/?viewAsMember=true) |
+| 👻 Snapchat | [Kayan Transporter Snapchat](https://www.snapchat.com/@kayantransport) |
+| 🎥 YouTube | [Kayan Transporter YouTube](https://youtube.com/@kayantransporter?si=dkNwohgoiwmw_Ik3) |
+| 🎬 TikTok | [Kayan Transporter TikTok](https://www.tiktok.com/@kayan_transporter?is_from_webapp=1&sender_device=pc) |
 | 📧 Email | kayan.transportation000@gmail.com |
-| 📞 Phone | 01016492717 — 01550390603 |
+| 📞 Phone | 01016492717 - 01550390603 |
 
 ---
 
