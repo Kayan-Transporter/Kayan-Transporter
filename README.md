@@ -194,14 +194,13 @@
 
 ## 📊 Key Performance Indicators (KPIs)
 
-* **Paid Campaign Performance (Facebook & Video Ads):**
+* **Paid Campaign Performance (Facebook Ads):**
+  * **Insights & Reports:** Tracking actual ad delivery, impressions, and engagement metrics using Meta Ads Manager insights.
   * **Direct Conversions:** Driving parent inquiries and direct bookings via WhatsApp (`https://wa.me/201016492717`).
-  * **Targeted Impressions:** Reaching 19k – 55k targeted parents in 6th of October, Sheikh Zayed, and New Cairo.
-  * **Video Engagement:** Achieving 11k – 27k views with cost-effective CPV (~EGP 0.05 – 0.19).
 
-* **Multi-Platform Content & Setup Strategy (Organic & Mockup Campaigns):**
-  * **Cross-Platform Presence:** Establishing brand visibility across Facebook, Instagram, LinkedIn, Snapchat, TikTok, YouTube, and Google Search.
-  * **Campaign Setup Documentation:** Providing complete campaign architecture and technical setup screenshots for search and social media channels.
+* **Multi-Platform Content Execution:**
+  * **Social Media Presence:** Publishing customized content, carousels, and videos across **Facebook, Instagram, LinkedIn, Snapchat, TikTok, and YouTube**.
+  * **Brand Strategy:** Delivering tailored messaging and visual assets for each platform's target audience.
 
 </div>
 
