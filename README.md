@@ -98,7 +98,7 @@
 
 - 📈 زيادة الوعي بعلامة كيان ترانسبورتر بين أولياء الأمور في الهرم وأكتوبر والشيخ زايد والقاهرة الجديدة.
 - 👨‍👩‍👧 &nbsp; بناء الثقة مع الأمهات من خلال إبراز مميزات الأمان (GPS، مشرفات، مواعيد).
-* 📱 تنمية الحضور الرقمي على منصات السوشيال ميديا المختلفة (فيسبوك - انستجرام - تيك توك - سناب شات - لينكدان) ومحرك البحث جوجل.
+* 📱 تنمية الحضور الرقمي على منصات السوشيال ميديا المختلفة (فيسبوك - انستجرام - تيك توك - سناب شات - لينكدان - يوتيوب).
 *  💰 توليد Leads مؤهلين وتحويلهم لمشتركين في الخدمة.
 - 📊 وضع KPIs قابلة للقياس لمتابعة الأداء التسويقي.
 
@@ -114,14 +114,44 @@
 
 </div>
 
-| Stage | Scope & Content |
-|-------|-----------------|
-| 🔍 **Situation** | Internal Analysis, Customer Analysis, Competitor Analysis, PEST, SWOT |
-| 🎯 **Objectives** | SMART Financial & Marketing Objectives |
-| 🗺️ **Strategy** | Segmentation, Target Market, Buyer Persona, USP |
-| ⚙️ **Tactics** | Marketing Mix, Content Calendar, Platforms, Tone of Voice, POCs |
-| 🚀 **Action** | Action Plan, Budget, Roles, Account Creation, Content Execution |
-| 📊 **Control** | KPIs, Analytics Reports, Recommendations |
+<div align="center">
+
+<table align="center">
+  <thead>
+    <tr>
+      <th align="center">Stage</th>
+      <th align="center">Scope &amp; Content</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">🔍 <b>Situation</b></td>
+      <td align="center">Internal Analysis, Customer Analysis, Competitor Analysis, PEST, SWOT</td>
+    </tr>
+    <tr>
+      <td align="center">🎯 <b>Objectives</b></td>
+      <td align="center">SMART Financial &amp; Marketing Objectives</td>
+    </tr>
+    <tr>
+      <td align="center">🗺️ <b>Strategy</b></td>
+      <td align="center">Segmentation, Target Market, Buyer Persona, USP</td>
+    </tr>
+    <tr>
+      <td align="center">⚙️ <b>Tactics</b></td>
+      <td align="center">Marketing Mix, Content Calendar, Platforms, Tone of Voice, POCs</td>
+    </tr>
+    <tr>
+      <td align="center">🚀 <b>Action</b></td>
+      <td align="center">Action Plan, Budget, Roles, Account Creation, Content Execution</td>
+    </tr>
+    <tr>
+      <td align="center">📊 <b>Control</b></td>
+      <td align="center">KPIs, Analytics Reports, Recommendations</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
 
 ---
 
@@ -142,17 +172,56 @@
 
 ## 🛠️ Tools Used
 
-| Category | Tools |
-|----------|-------|
-| 🎨 Design | Canva |
-| 🎬 Video Editing | CapCut |
-| 🎥 Visuals & Scene Generation | Google Flow, Dola AI |
-| 🤖 AI (Captions & Prompts) | ChatGPT, Gemini, Copilot |
-| 🎙️ Voiceover | ElevenLabs, Google AI Studio |
-| 📊 Planning | PowerPoint, Business Model Canvas, SOSTAC |
-| 🔍 Research & Persona | Google Trends, HubSpot (Make My Persona Tool) |
-| 📲 Publishing | Meta Business Suite, YouTube Studio, TikTok, Snapchat, LinkedIn, Google Ads |
-| 📈 Data | Excel |
+<div align="center">
+
+<table align="center">
+  <thead>
+    <tr>
+      <th align="center">Category</th>
+      <th align="center">Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">🎨 Design</td>
+      <td align="center">Canva</td>
+    </tr>
+    <tr>
+      <td align="center">🎬 Video Editing</td>
+      <td align="center">CapCut</td>
+    </tr>
+    <tr>
+      <td align="center">🎥 Visuals &amp; Scene Generation</td>
+      <td align="center">Google Flow, Dola AI</td>
+    </tr>
+    <tr>
+      <td align="center">🤖 AI (Captions &amp; Prompts)</td>
+      <td align="center">ChatGPT, Gemini, Copilot</td>
+    </tr>
+    <tr>
+      <td align="center">🎙️ Voiceover</td>
+      <td align="center">ElevenLabs, Google AI Studio</td>
+    </tr>
+    <tr>
+      <td align="center">📊 Planning</td>
+      <td align="center">PowerPoint, Business Model Canvas, SOSTAC</td>
+    </tr>
+    <tr>
+      <td align="center">🔍 Research &amp; Persona</td>
+      <td align="center">Google Trends, HubSpot (Make My Persona Tool)</td>
+    </tr>
+    <tr>
+      <td align="center">📲 Publishing</td>
+      <td align="center">Meta Business Suite, YouTube Studio, TikTok, Snapchat, LinkedIn</td>
+    </tr>
+    <tr>
+      <td align="center">📈 Data</td>
+      <td align="center">Excel</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
 
 
 ---
@@ -240,13 +309,52 @@
 
 ## 👥 Roles & Responsibilities
 
-| # | Name | Assigned Phase / Week | Primary Responsibilities & Deliverables |
-| :---: | :--- | :--- | :--- |
-| **1** | **Asmaa Abdelmohsen Mohamed Mohamed** | **Week 1: Situation Analysis** | Internal analysis, Customer analysis, Competitor analysis, PEST analysis, and SWOT analysis. |
-| **2** | **Esraa Amr Mohamed Waheeb** | **Week 2: Objectives & Strategy** | SMART objectives (Financial & Marketing), Market segmentation, Target market, Buyer persona, and USP / Competitive advantage. |
-| **3** | **Basma Ali Abbas Hussein** | **Week 3: Tactics & Content Planning** | Marketing Mix (7Ps), Content calendar, Tone of Voice, POC Captions & Headlines, and STEPPS Model implementation. |
-| **4** | **Abdelrhman Ahmed Elsayed Abdelmaksoud** | **Week 4: Action & Execution** | Action plan & budget allocation, Social media accounts setup, Content execution (Photo, Video & Infographic), and Content publishing. |
-| **5** | **Ali Eldeen Magdi Ali Kotb** | **Week 5: Control** | Defining KPIs & success metrics, Meta Business Suite Analytics, Performance evaluation vs objectives, Future recommendations. |
+<div align="center">
+
+<table align="center">
+  <thead>
+    <tr>
+      <th align="center">#</th>
+      <th align="center">Name</th>
+      <th align="center">Assigned Phase / Week</th>
+      <th align="center">Primary Responsibilities &amp; Deliverables</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><b>1</b></td>
+      <td align="center"><b>Asmaa Abdelmohsen Mohamed Mohamed</b></td>
+      <td align="center"><b>Week 1: Situation Analysis</b></td>
+      <td align="center">Internal analysis, Customer analysis, Competitor analysis, PEST analysis, and SWOT analysis.</td>
+    </tr>
+    <tr>
+      <td align="center"><b>2</b></td>
+      <td align="center"><b>Esraa Amr Mohamed Waheeb</b></td>
+      <td align="center"><b>Week 2: Objectives &amp; Strategy</b></td>
+      <td align="center">SMART objectives (Financial &amp; Marketing), Market segmentation, Target market, Buyer persona, and USP / Competitive advantage.</td>
+    </tr>
+    <tr>
+      <td align="center"><b>3</b></td>
+      <td align="center"><b>Basma Ali Abbas Hussein</b></td>
+      <td align="center"><b>Week 3: Tactics &amp; Content Planning</b></td>
+      <td align="center">Marketing Mix (7Ps), Content calendar, Tone of Voice, POC Captions &amp; Headlines, and STEPPS Model implementation.</td>
+    </tr>
+    <tr>
+      <td align="center"><b>4</b></td>
+      <td align="center"><b>Abdelrhman Ahmed Elsayed Abdelmaksoud</b></td>
+      <td align="center"><b>Week 4: Action &amp; Execution</b></td>
+      <td align="center">Action plan &amp; budget allocation, Social media accounts setup, Content execution (Photo, Video &amp; Infographic), and Content publishing.</td>
+    </tr>
+    <tr>
+      <td align="center"><b>5</b></td>
+      <td align="center"><b>Ali Eldeen Magdi Ali Kotb</b></td>
+      <td align="center"><b>Week 5: Control</b></td>
+      <td align="center">Defining KPIs &amp; success metrics, Meta Business Suite Analytics, Performance evaluation vs objectives, Future recommendations.</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
 
 </div>
 
@@ -271,17 +379,56 @@
 
 ## 🔗 Project Links
 
-| Resource | Link |
-| :--- | :--- |
-| 📁 Google Drive | [Kayan Transporter Drive Folder](https://drive.google.com/drive/folders/1XwqFblUyqDLciORSQC3dFheMwt6WebJS?usp=drive_link) |
-| 📱 Facebook | [Facebook](https://www.facebook.com/profile.php?id=61561243933084) |
-| 📸 Instagram | [Kayan Transporter Instagram](https://www.instagram.com/kayantransporter?utm_source=ig_web_button_share_sheet&mdxt=ZDNlZDc0MzIxNw==) |
-| 💼 LinkedIn | [Kayan Transporter LinkedIn](https://www.linkedin.com/company/kayan-transporter/about/?viewAsMember=true) |
-| 👻 Snapchat | [Kayan Transporter Snapchat](https://www.snapchat.com/@kayantransport) |
-| 🎥 YouTube | [Kayan Transporter YouTube](https://youtube.com/@kayantransporter?si=dkNwohgoiwmw_Ik3) |
-| 🎬 TikTok | [Kayan Transporter TikTok](https://www.tiktok.com/@kayan_transporter?is_from_webapp=1&sender_device=pc) |
-| 📧 Email | kayan.transportation000@gmail.com |
-| 📞 Phone | 01016492717 - 01550390603 |
+<div align="center">
+
+<table align="center">
+  <thead>
+    <tr>
+      <th align="center">Resource</th>
+      <th align="center">Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">📁 Google Drive</td>
+      <td align="center"><a href="https://drive.google.com/drive/folders/1XwqFblUyqDLciORSQC3dFheMwt6WebJS?usp=drive_link">Kayan Transporter Drive Folder</a></td>
+    </tr>
+    <tr>
+      <td align="center">📱 Facebook</td>
+      <td align="center"><a href="https://www.facebook.com/profile.php?id=61561243933084">Facebook</a></td>
+    </tr>
+    <tr>
+      <td align="center">📸 Instagram</td>
+      <td align="center"><a href="https://www.instagram.com/kayantransporter?utm_source=ig_web_button_share_sheet&amp;mdxt=ZDNlZDc0MzIxNw==">Kayan Transporter Instagram</a></td>
+    </tr>
+    <tr>
+      <td align="center">💼 LinkedIn</td>
+      <td align="center"><a href="https://www.linkedin.com/company/kayan-transporter/about/?viewAsMember=true">Kayan Transporter LinkedIn</a></td>
+    </tr>
+    <tr>
+      <td align="center">👻 Snapchat</td>
+      <td align="center"><a href="https://www.snapchat.com/@kayantransport">Kayan Transporter Snapchat</a></td>
+    </tr>
+    <tr>
+      <td align="center">🎥 YouTube</td>
+      <td align="center"><a href="https://youtube.com/@kayantransporter?si=dkNwohgoiwmw_Ik3">Kayan Transporter YouTube</a></td>
+    </tr>
+    <tr>
+      <td align="center">🎬 TikTok</td>
+      <td align="center"><a href="https://www.tiktok.com/@kayan_transporter?is_from_webapp=1&amp;sender_device=pc">Kayan Transporter TikTok</a></td>
+    </tr>
+    <tr>
+      <td align="center">📧 Email</td>
+      <td align="center"><a href="mailto:kayan.transportation000@gmail.com">kayan.transportation000@gmail.com</a></td>
+    </tr>
+    <tr>
+      <td align="center">📞 Phone</td>
+     <td align="center"><a href="tel:+201016492717">01016492717</a> - <a href="tel:+201550390603">01550390603</a></td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
 
 ---
 
@@ -293,16 +440,52 @@
 
 </div>
 
-| Detail | Info |
-|--------|------|
-| 📍 Location | 6 October City, Cairo, Egypt |
-| 🏫 Partner Schools | Japanese School, Masr Language School, IPS (3 branches), Infinity, New Vegain, Franco Al-Motamayez |
-| 🚌 Fleet | Toyota Hiace — 14 seats |
-| 👩 Supervisors | Trained female supervisors on every bus |
-| 📡 Technology | Real-time GPS tracking |
-| 🛡️ Insurance | Full coverage |
-| ⏰ Service | Always open |
-| 📍 Coverage | El Haram, October City, Sheikh Zayed, Aktobur Gardens , New Cairo|
+<div align="center">
+
+<table align="center">
+  <thead>
+    <tr>
+      <th align="center">Detail</th>
+      <th align="center">Info</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">📍 Location</td>
+      <td align="center">6 October City, Cairo, Egypt</td>
+    </tr>
+    <tr>
+      <td align="center">🏫 Partner Schools</td>
+      <td align="center">Japanese School, Masr Language School, IPS (3 branches), Infinity, New Vegain, Franco Al-Motamayez</td>
+    </tr>
+    <tr>
+      <td align="center">🚌 Fleet</td>
+      <td align="center">Toyota Hiace — 14 seats</td>
+    </tr>
+    <tr>
+      <td align="center">👩 Supervisors</td>
+      <td align="center">Trained female supervisors on every bus</td>
+    </tr>
+    <tr>
+      <td align="center">📡 Technology</td>
+      <td align="center">Real-time GPS tracking</td>
+    </tr>
+    <tr>
+      <td align="center">🛡️ Insurance</td>
+      <td align="center">Full coverage</td>
+    </tr>
+    <tr>
+      <td align="center">⏰ Service</td>
+      <td align="center">Always open</td>
+    </tr>
+    <tr>
+      <td align="center">🗺️ Coverage</td>
+      <td align="center">El Haram, October City, Sheikh Zayed, October Gardens, New Cairo</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
 
 ---
 
