@@ -43,13 +43,46 @@
 
 ## 👥 Team Members
 
-| # | Name | Role |
-|---|------|------|
-| 1 | **Asmaa Abdelmohsen Mohamed Mohamed** | 👑 Team Leader |
-| 2 | Abdelrhman Ahmed Elsayed Abdelmaksoud | Member |
-| 3 | Ali Eldeen Magdi Ali Kotb | Member |
-| 4 | Basma Ali Abbas Hussein | Member |
-| 5 | Esraa Amr Mohamed Waheeb | Member |
+<div align="center">
+
+<table align="center">
+  <thead>
+    <tr>
+      <th align="center">#</th>
+      <th align="center">Name</th>
+      <th align="center">Role</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">1</td>
+      <td align="center"><b>Asmaa Abdelmohsen Mohamed Mohamed</b></td>
+      <td align="center">👑 Team Leader</td>
+    </tr>
+    <tr>
+      <td align="center">2</td>
+      <td align="center">Abdelrhman Ahmed Elsayed Abdelmaksoud</td>
+      <td align="center">Member</td>
+    </tr>
+    <tr>
+      <td align="center">3</td>
+      <td align="center">Ali Eldeen Magdi Ali Kotb</td>
+      <td align="center">Member</td>
+    </tr>
+    <tr>
+      <td align="center">4</td>
+      <td align="center">Basma Ali Abbas Hussein</td>
+      <td align="center">Member</td>
+    </tr>
+    <tr>
+      <td align="center">5</td>
+      <td align="center">Esraa Amr Mohamed Waheeb</td>
+      <td align="center">Member</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
 
 ---
 
