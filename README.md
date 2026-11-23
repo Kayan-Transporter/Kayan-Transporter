@@ -66,16 +66,11 @@
     </tr>
     <tr>
       <td align="center">3</td>
-      <td align="center">Ali Eldeen Magdi Ali Kotb</td>
-      <td align="center">Member</td>
-    </tr>
-    <tr>
-      <td align="center">4</td>
       <td align="center">Basma Ali Abbas Hussein</td>
       <td align="center">Member</td>
     </tr>
     <tr>
-      <td align="center">5</td>
+      <td align="center">4</td>
       <td align="center">Esraa Amr Mohamed Waheeb</td>
       <td align="center">Member</td>
     </tr>
